@@ -22,10 +22,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <p>
     <a href="https://github.com/YashvardhanAshok/skill-tech"><img src="sorce/AUTO-APPLY.png"></a>
     <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/skill-tech"><span>GitHub</span></a><br>
-    Python, Selenium, SQL, Olama Developed an Al-based application that
-    automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
-    generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
-    SQL database.
+    Built an AI-driven job automation platform that discovers relevant openings, generates tailored resumes and cover letters, and streamlines applications across multiple platforms while maintaining structured tracking of opportunities.
 </p>
 
 <p>
@@ -37,7 +34,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <p>
     <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/ATF.png"></a>
     <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span>GitHub</span></a><br>
-    Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
+    Built Tender Hunt and ATF to automate tender discovery across 12 portals, streamlining employee workflows while providing a user-friendly interface for setting search criteria and improving efficiency.
 </p>
 <br>
 </td>
@@ -47,13 +44,13 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <p>
     <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><img src="sorce/LUNA.png"></a>
     <strong>Smart Store System</strong> - <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><span>GitHub</span></a><br>
-    This project is a comprehensive Smart Store System that uses a Python-based backend and a web-based frontend for managing inventory, enhancing user experience, and simplifying payment processes. The system is designed to automate store-side operations and offer customers a seamless shopping experience with minimal manual intervention
+    Built a Smart Store System with automated inventory management, streamlined checkout, and a web interface to improve operational efficiency and deliver a seamless customer shopping experience.
 </p>
 
 <p>
     <a href=""><img src="sorce/HomeLab.png"></a>
     <strong>HomeLab</strong> - <a href=""><span>GitHub</span></a><br>
-    I built a self-hosted server environment to deploy, test, and manage applications locally in a production-like setup. I configured custom local domains, reverse proxy routing, and HTTPS certificates to securely host multiple internal services and dashboards. The lab serves as a sandbox for experimenting with automation scripts, web apps, networking configurations, and system deployments, helping me gain hands-on expergience with real-world infrastructure and DevOps practices.
+    Built a self-hosted lab to deploy and test applications with secure routing, HTTPS, and automation workflows, gaining hands-on experience with real-world infrastructure and DevOps practices.
 </p>
 
 <p>
