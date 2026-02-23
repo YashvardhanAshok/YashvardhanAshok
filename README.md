@@ -1,33 +1,3 @@
----
-
-Automates job tracking, resume processing, and workflow handling to reduce repetitive job-search tasks.
-Repository: https://github.com/yourusername/repo-name
-
-### Friday – AI Web Assistant
-
-Smart assistant with database integration and automation features designed to streamline internal workflows.
-Repository: https://github.com/yourusername/repo-name
-
-### TOKUMEI – Internal Communication System
-
-Offline-first messaging and coordination platform built to replace email-heavy internal communication.
-Repository: https://github.com/yourusername/repo-name
-
-### Railway Management System
-
-Full-stack booking platform with email integration and database-backed scheduling.
-Repository: https://github.com/yourusername/repo-name
-
-### AIU – Instagram Automation Bot
-
-Automation tool that analyzes follow relationships and manages account cleanup intelligently.
-Repository: https://github.com/yourusername/repo-name
-
-Email: [yashvardhan577@gmail.com](mailto:yashvardhan577@gmail.com)
-LinkedIn: Add your link here
-
----
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice meet You.</h1>
 
 <p>
@@ -58,4 +28,5 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
-<h3>Open source projects</h3>
+<h3>My Persnal Projects</h3>
+
