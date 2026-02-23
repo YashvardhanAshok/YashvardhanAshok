@@ -20,8 +20,8 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <td width="50%" valign="top" style="border:none;">
 <br>
 <p>
-    <a href=""><img src="sorce/AUTO-APPLY.png"></a>
-    <strong>AUTO-APPLY</strong> - <a href=""><span>GitHub</span></a><br>
+    <a href="https://github.com/YashvardhanAshok/skill-tech"><img src="sorce/AUTO-APPLY.png"></a>
+    <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/skill-tech"><span>GitHub</span></a><br>
     Python, Selenium, SQL, Olama Developed an Al-based application that
     automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
     generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
@@ -29,8 +29,8 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 </p>
 
 <p>
-    <a href=""><img src="sorce/FRIDAY.png"></a>
-    <strong>Friday & Cortana Lite</strong> - <a href=""><span>GitHub</span></a><br>
+    <a href="https://github.com/YashvardhanAshok/Power_Grid--PDF"><img src="sorce/FRIDAY.png"></a>
+    <strong>Friday & Cortana Lite</strong> - <a href="https://github.com/YashvardhanAshok/Power_Grid--PDF"><span>GitHub</span></a><br>
     Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
 </p>
 
@@ -78,9 +78,6 @@ If you’ve got an idea, opportunity, or just enjoy building cool things - I’m
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
-
-
-
 
 <hr>
 <p align="center">
