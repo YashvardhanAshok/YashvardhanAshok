@@ -6,6 +6,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 </p>
 
 <h3>Things I code with</h3>
+<p>
 <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=llama&logoColor=white" />
@@ -28,5 +29,6 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
-<h3>My Persnal Projects</h3>
+</p>
 
+<h3>My Persnal Projects</h3>
