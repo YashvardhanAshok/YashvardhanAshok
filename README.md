@@ -71,9 +71,16 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <p>
 If you’ve got an idea, opportunity, or just enjoy building cool things - I’m always open to a conversation.<br>
-Email: <a href="mailto:yashvardhan577@gmail.com">yashvardhan577@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-ashok/">Yashvardhan Ashok</a>
+<a href="mailto:yashvardhan577@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/yashvardhan-ashok/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
+
+
+
 
 <hr>
 <p align="center">
