@@ -38,7 +38,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <br>
 
 ![alt text](sorce/AUTO-APPLY.png)<br>
-<strong>AUTO-APPLY</strong> - GitHub<br>
+<strong>AUTO-APPLY</strong> - <span style="color:light #208f20;">GitHub</span><br>
 Python, Selenium, SQL, Olama Developed an Al-based application that
 automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
 generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
@@ -47,13 +47,13 @@ SQL database.
 <br>
 
 ![alt text](sorce/LUNA.png)<br>
-<strong>Friday & Cortana Lite</strong> - GitHub<br>
+<strong>Friday & Cortana Lite</strong> - <span style="color:light #208f20;">GitHub</span><br>
 Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
 <br>
 <br>
 
 ![alt text](sorce/ATF.png)<br>
-<strong> ATF & Tender Hunt</strong> - Github<br>
+<strong> ATF & Tender Hunt</strong> - <span style="color:light #208f20;">GitHub</span><br>
 Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
 <br>
 <br>
@@ -64,23 +64,22 @@ Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF s
 <br>
 
 ![alt text](sorce/FRIDAY.png)<br>
-<strong>Smart Store System</strong> - Github<br>
+<strong>Smart Store System</strong> - <span style="color:light #208f20;">GitHub</span><br>
 This project is a comprehensive Smart Store System that uses a Python-based backend and a web-based frontend for managing inventory, enhancing user experience, and simplifying payment processes. The system is designed to automate store-side operations and offer customers a seamless shopping experience with minimal manual intervention
 <br>
 <br>
 
 ![alt text](sorce/HomeLab.png)<br>
-<strong>HomeLab</strong> - Github<br>
+<strong>HomeLab</strong> - <span style="color:light #208f20;">GitHub</span><br>
 I built a self-hosted server environment to deploy, test, and manage applications locally in a production-like setup. I configured custom local domains, reverse proxy routing, and HTTPS certificates to securely host multiple internal services and dashboards. The lab serves as a sandbox for experimenting with automation scripts, web apps, networking configurations, and system deployments, helping me gain hands-on expergience with real-world infrastructure and DevOps practices.
 <br>
 <br>
 
 ![alt text](sorce/Railx.png)<br>
-<strong>Railway Management System</strong> - Github<br>
+<strong>Railway Management System</strong> - <span style="color:light #208f20;">GitHub</span><br>
 About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
 <br>
 <br>
-
 
 </td>
 
