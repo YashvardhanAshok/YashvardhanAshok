@@ -84,3 +84,21 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 </tr>
 </table>
+
+<!--
+Source - https://stackoverflow.com/q/11509830
+Posted by Dave Dopson, modified by community. See post 'Timeline' for change history
+Retrieved 2026-02-23, License - CC BY-SA 4.0
+-->
+
+<span style="color: green"> Some green text </span>
+
+<!--
+Source - https://stackoverflow.com/q/11509830
+Posted by Dave Dopson, modified by community. See post 'Timeline' for change history
+Retrieved 2026-02-23, License - CC BY-SA 4.0
+-->
+
+<font color="green"> Some green text </font>
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
