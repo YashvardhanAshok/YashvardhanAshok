@@ -68,13 +68,17 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 </table>
 
 <h3>Want to reach me?</h3>
-If you have an idea, opportunity, bug report, or just want to talk tech - I’m reachable. Carrier pigeons are unreliable, so try one of these instead:<br>
+
+<p>
+If you’ve got an idea, opportunity, or just enjoy building cool things — I’m always open to a conversation.<br><br>
 
 Email: <a href="mailto:yashvardhan577@gmail.com">yashvardhan577@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-ashok/">Yashvardhan Ashok</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-ashok/">Yashvardhan Ashok</a>
+</p>
 
-Last Updated: FEB, 20 2026
+<hr>
 
 <p align="center">
-    I don’t just build projects - I build systems that work.
+<strong>I don’t just build projects - I build systems that work.</strong><br>
+<sub>Last Updated: FEB, 20 2026</sub>
 </p>
