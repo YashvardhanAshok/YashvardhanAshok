@@ -31,25 +31,37 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-<h3>My Persnal Projects</h3>
-<table width="100%" cellspacing="10">
-
+<h3>My Experimentals</h3>
+<table width="100%">
 <tr>
-<td bgcolor="#061A2B" align="center" style="padding:25px; color:white;">Card 1</td>
-<td bgcolor="#E34F5F" align="center" style="padding:25px; color:white;">Card 2</td>
-<td bgcolor="#3776AB" align="center" style="padding:25px; color:white;">Card 3</td>
-</tr>
 
-<tr>
-<td bgcolor="#43B02A" align="center" style="padding:25px; color:white;">Card 4</td>
-<td bgcolor="#2496ED" align="center" style="padding:25px; color:white;">Card 5</td>
-<td bgcolor="#F7DF1E" align="center" style="padding:25px; color:black;">Card 6</td>
-</tr>
+<td width="50%" valign="top">
+<div style="width:100%; height:350px; overflow:hidden;">
+  <img src="sorce/AUTO-APPLY.png" width="100%">
+<strong>Friday & Cortana lite </strong>- Github<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
+</div>
+<div style="width:100%; height:350px; overflow:hidden;">
+  <img src="sorce/AUTO-APPLY.png" width="100%">
+<strong>Friday & Cortana lite </strong>- Github<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
+</div>
 
-<tr>
-<td bgcolor="#CC2927" align="center" style="padding:25px; color:white;">Card 7</td>
-<td bgcolor="#150458" align="center" style="padding:25px; color:white;">Card 8</td>
-<td bgcolor="#000000" align="center" style="padding:25px; color:white;">Card 9</td>
-</tr>
+</td>
 
+<td width="50%" valign="top">
+<div style="width:100%; height:350px; overflow:hidden;">
+  <img src="sorce/AUTO-APPLY.png" width="100%">
+<strong>Friday & Cortana lite </strong>- Github<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
+</div>
+<div style="width:100%; height:350px; overflow:hidden;">
+  <img src="sorce/AUTO-APPLY.png" width="100%">
+<strong>Friday & Cortana lite </strong>- Github<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
+</div>
+
+</td>
+
+</tr>
 </table>
