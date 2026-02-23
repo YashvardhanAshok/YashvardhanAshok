@@ -35,30 +35,46 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <tr>
 
 <td width="50%" valign="top" style="border:none;">
+<br>
 
-<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
-<strong>Friday & Cortana Lite</strong> — GitHub<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
-<br><br>
+![alt text](sorce/AUTO-APPLY.png)<br>
+<strong>AUTO-APPLY</strong> - GitHub<br>
+Python, Selenium, SQL, Olama Developed an Al-based application that
+automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
+generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
+SQL database.
+<br>
 
-<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
-<strong>Friday & Cortana Lite</strong> — GitHub<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
+![alt text](sorce/LUNA.png)<br>
+<strong>Friday & Cortana Lite</strong> - GitHub<br>
+Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
+<br>
+
+![alt text](sorce/ATF.png)<br>
+<strong> ATF & Tender Hunt</strong> - Github<br>
+Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
+<br>
 
 </td>
 
 <td width="50%" valign="top" style="border:none;">
 <br>
 
-![alt text](sorce/FRIDAY.png)
-<strong>Friday & Cortana Lite</strong> — GitHub<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
+![alt text](sorce/FRIDAY.png)<br>
+<strong>Smart Store System</strong> - Github<br>
+This project is a comprehensive Smart Store System that uses a Python-based backend and a web-based frontend for managing inventory, enhancing user experience, and simplifying payment processes. The system is designed to automate store-side operations and offer customers a seamless shopping experience with minimal manual intervention
 <br>
 
-![alt text](sorce/ATF.png)
-<strong> ATF & Tender Hunt</strong> - Github<br>
-Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
+![alt text](sorce/HomeLab.png)<br>
+<strong>HomeLab</strong> - Github<br>
+I built a self-hosted server environment to deploy, test, and manage applications locally in a production-like setup. I configured custom local domains, reverse proxy routing, and HTTPS certificates to securely host multiple internal services and dashboards. The lab serves as a sandbox for experimenting with automation scripts, web apps, networking configurations, and system deployments, helping me gain hands-on expergience with real-world infrastructure and DevOps practices.
 <br>
+
+![alt text](sorce/Railx.png)<br>
+<strong>Railway Management System</strong> - Github<br>
+About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
+<br>
+
 
 </td>
 
