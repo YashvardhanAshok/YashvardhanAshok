@@ -31,11 +31,10 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 <h3>My Experimentals</h3>
-
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;">
 
 <img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
 <strong>Friday & Cortana Lite</strong> — GitHub<br>
@@ -48,9 +47,10 @@ Power Grid Corporation of India Limited is an Indian central public sector under
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:none;">
 
-<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
+<img src="sorce/FRIDAY.png" width="100%" height="280" style="object-fit:cover;"><br>
+
 <strong>Friday & Cortana Lite</strong> — GitHub<br>
 Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
 <br><br>
