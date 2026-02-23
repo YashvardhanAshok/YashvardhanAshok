@@ -32,3 +32,24 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 </p>
 
 <h3>My Persnal Projects</h3>
+<table width="100%" cellspacing="10">
+
+<tr>
+<td bgcolor="#061A2B" align="center" style="padding:25px; color:white;">Card 1</td>
+<td bgcolor="#E34F5F" align="center" style="padding:25px; color:white;">Card 2</td>
+<td bgcolor="#3776AB" align="center" style="padding:25px; color:white;">Card 3</td>
+</tr>
+
+<tr>
+<td bgcolor="#43B02A" align="center" style="padding:25px; color:white;">Card 4</td>
+<td bgcolor="#2496ED" align="center" style="padding:25px; color:white;">Card 5</td>
+<td bgcolor="#F7DF1E" align="center" style="padding:25px; color:black;">Card 6</td>
+</tr>
+
+<tr>
+<td bgcolor="#CC2927" align="center" style="padding:25px; color:white;">Card 7</td>
+<td bgcolor="#150458" align="center" style="padding:25px; color:white;">Card 8</td>
+<td bgcolor="#000000" align="center" style="padding:25px; color:white;">Card 9</td>
+</tr>
+
+</table>
