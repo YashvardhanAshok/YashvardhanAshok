@@ -46,14 +46,29 @@ SQL database.
 <br>
 <br>
 
-![alt text](sorce/LUNA.png)<br>
-<strong>Friday & Cortana Lite</strong> - <span style="color:#208f20;">GitHub</span><br>
+<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
+
+![alt text](sorce/LUNA.png)
+</a><br>
+
+<strong>Friday & Cortana Lite</strong> -
+<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
+<span style="color:#208f20;">GitHub</span>
+</a><br>
+
 Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
 <br>
 <br>
 
-![alt text](sorce/ATF.png)<br>
-<strong> ATF & Tender Hunt</strong> - <span style="color:#208f20;">GitHub</span><br>
+<a href="https://github.com/YashvardhanAshok/Tender-Hunt">
+
+![alt text](sorce/ATF.png)
+</a><br>
+
+<strong>AUTO-APPLY</strong> —
+<a href="https://github.com/YashvardhanAshok/Tender-Hunt">
+<span style="color:#208f20;">GitHub</span>
+</a><br>
 Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
 <br>
 <br>
@@ -75,8 +90,15 @@ I built a self-hosted server environment to deploy, test, and manage application
 <br>
 <br>
 
-![alt text](sorce/Railx.png)<br>
-<strong>Railway Management System</strong> - <span style="color:#208f20;">GitHub</span><br>
+<a href="https://github.com/YashvardhanAshok/Railway-Management-System">
+
+![alt text](sorce/Railx.png)
+</a>
+
+<strong>Railway-Management-System</strong> —
+<a href="https://github.com/YashvardhanAshok/Railway-Management-System">
+<span style="color:#208f20;">GitHub</span>
+</a><br>
 About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
 <br>
 <br>
