@@ -48,17 +48,15 @@ Power Grid Corporation of India Limited is an Indian central public sector under
 </td>
 
 <td width="50%" valign="top" style="border:none;">
-
-<img src="sorce/FRIDAY.png" width="100%" height="280" style="object-fit:cover;"><br>
-
+<br>
+![alt text](sorce/FRIDAY.png)
 <strong>Friday & Cortana Lite</strong> — GitHub<br>
 Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
-<br><br>
-
-<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
-<strong>Friday & Cortana Lite</strong> — GitHub<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
-
+<br>
+![alt text](sorce/ATF.png)
+<strong> ATF & Tender Hunt</strong> - Github<br>
+Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
+<br>
 </td>
 
 </tr>
