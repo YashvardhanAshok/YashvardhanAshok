@@ -70,15 +70,14 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <h3>Want to reach me?</h3>
 
 <p>
-If you’ve got an idea, opportunity, or just enjoy building cool things — I’m always open to a conversation.<br><br>
-
+If you’ve got an idea, opportunity, or just enjoy building cool things - I’m always open to a conversation.<br>
 Email: <a href="mailto:yashvardhan577@gmail.com">yashvardhan577@gmail.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-ashok/">Yashvardhan Ashok</a>
 </p>
 
 <hr>
-
 <p align="center">
 <strong>I don’t just build projects - I build systems that work.</strong><br>
 <sub>Last Updated: FEB, 20 2026</sub>
 </p>
+<hr>
