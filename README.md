@@ -7,7 +7,6 @@ table, th, td {
 }
 blockquote {
     border-left: none;
-    padding-left: 10px;
 }
 </style>
 
@@ -44,50 +43,30 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 <h3>My Experimentals</h3>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+
+<table width="100%" cellpadding="0" cellspacing="0" style="border:none;">
 <tr>
 
 <td width="50%" valign="top" style="border:none;">
 <br>
 
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
+<p>
+    <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/LUNA.png"></a><br>
+    <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span style="color:#208f20;">GitHub</span></a><br>
+    Python, Selenium, SQL, Olama Developed an Al-based application that
+    automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
+    generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
+    SQL database.
+</p>
 
-![alt text](sorce/AUTO-APPLY.png)
-</a>
+<p>
+    <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/LUNA.png"></a>
+    <strong>Friday & Cortana Lite</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span style="color:#208f20;">GitHub</span></a><br>
+    Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
+</p>
 
-<strong>AUTO-APPLY</strong> -
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-
-<span style="color:#208f20;">GitHub</span>
-</a>
-Python, Selenium, SQL, Olama Developed an Al-based application that
-automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
-generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
-SQL database.
-<br>
-
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-
-![alt text](sorce/LUNA.png)
-</a>
-
-<strong>Friday & Cortana Lite</strong> -
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-<span style="color:#208f20;">GitHub</span>
-</a>
-
-Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
-<br>
-
-<a href="https://github.com/YashvardhanAshok/Tender-Hunt">
-
-![alt text](sorce/ATF.png)
-</a>
-
-<strong>AUTO-APPLY</strong> —
-<a href="https://github.com/YashvardhanAshok/Tender-Hunt">
-<span style="color:#208f20;">GitHub</span>
-</a>
+<a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/ATF.png"></a>
+<strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span style="color:#208f20;">GitHub</span></a><br>
 Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
 <br>
 
@@ -96,38 +75,18 @@ Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF s
 <td width="50%" valign="top" style="border:none;">
 <br>
 
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-
-![alt text](sorce/FRIDAY.png)
-</a>
-
-<strong>Smart Store System</strong> -
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-<span style="color:#208f20;">GitHub</span>
-</a>
+<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><img src="sorce/Railx.png"></a>
+<strong>Smart Store System</strong> - <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><span style="color:#208f20;">GitHub</span></a><br>
 This project is a comprehensive Smart Store System that uses a Python-based backend and a web-based frontend for managing inventory, enhancing user experience, and simplifying payment processes. The system is designed to automate store-side operations and offer customers a seamless shopping experience with minimal manual intervention
 <br>
 
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-
-![alt text](sorce/HomeLab.png)
-</a>
-<strong>HomeLab</strong> -
-<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System">
-<span style="color:#208f20;">GitHub</span>
-</a>
+<a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><img src="sorce/Railx.png"></a>
+<strong>HomeLab</strong> - <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><span style="color:#208f20;">GitHub</span></a><br>
 I built a self-hosted server environment to deploy, test, and manage applications locally in a production-like setup. I configured custom local domains, reverse proxy routing, and HTTPS certificates to securely host multiple internal services and dashboards. The lab serves as a sandbox for experimenting with automation scripts, web apps, networking configurations, and system deployments, helping me gain hands-on expergience with real-world infrastructure and DevOps practices.
 <br>
 
-<a href="https://github.com/YashvardhanAshok/Railway-Management-System">
-
-![alt text](sorce/Railx.png)
-</a>
-
-<strong>Railway-Management-System</strong> —
-<a href="https://github.com/YashvardhanAshok/Railway-Management-System">
-<span style="color:#208f20;">GitHub</span>
-</a>
+<a href="https://github.com/YashvardhanAshok/Railway-Management-System"><img src="sorce/Railx.png"></a>
+<strong>Railway-Management-System</strong> - <a href="https://github.com/YashvardhanAshok/Railway-Management-System"><span style="color:#208f20;">GitHub</span></a><br>
 About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
 <br>
 
