@@ -4,6 +4,7 @@
 I'm <strong>Yashvardhan.</strong><br>
 Full Stack Developer focused on Python, scalable backends, and applied AI solutions. why not explore more of my work in my 
 <a href="https://yashvardhanashok.github.io/profile/">portfolio</a>.
+
 </p>
 
 <h3>Here Are My Top Skils</h3>
@@ -11,8 +12,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
   <img src="https://skillicons.dev/icons?i=git,html,js,css,cpp,docker,sqlite,mysql,python,nodejs,flask,github,githubactions,pytorch,matlab,blender," />
 </p>
 
-<h3>My Experimentals</h3>
-I don’t just build projects - I build systems that work.
+<h3>Check Out My Experimentals </h3>
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border:none;">
 <tr>
@@ -67,10 +67,14 @@ I don’t just build projects - I build systems that work.
 </tr>
 </table>
 
+<h3>Want to reach me?</h3>
+If you have an idea, opportunity, bug report, or just want to talk tech - I’m reachable. Carrier pigeons are unreliable, so try one of these instead:<br>
+
+Email: <a href="mailto:yashvardhan577@gmail.com">yashvardhan577@gmail.com</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/yashvardhan-ashok/">Yashvardhan Ashok</a><br>
+
+Last Updated: FEB, 20 2026
+
 <p align="center">
-Last Updated: FEB, 20 2026 
+    I don’t just build projects - I build systems that work.
 </p>
-
-
-
-
