@@ -1,15 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-}
-</style>
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice meet You.</h1>
 
 <p>
@@ -48,9 +36,10 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <tr>
 
 <td width="50%" valign="top" style="border:none;">
+<br>
 <p>
     <a href=""><img src="sorce/AUTO-APPLY.png"></a>
-    <strong>AUTO-APPLY</strong> - <a href=""><span style="color:#208f20;">GitHub</span></a><br>
+    <strong>AUTO-APPLY</strong> - <a href="" style="color:#208f20;"><span style="color:#208f20;">GitHub</span></a><br>
     Python, Selenium, SQL, Olama Developed an Al-based application that
     automatica ly searches and applies for relevant job openings on platforms like LinkedIn and Naukri. The system
     generates customized, ATS-friendly resumes and cover letters using LLMs and maintains application records in a
@@ -59,7 +48,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <p>
     <a href=""><img src="sorce/FRIDAY.png"></a>
-    <strong>Friday & Cortana Lite</strong> - <a href=""><span style="color:#208f20;">GitHub</span></a><br>
+    <strong>Friday & Cortana Lite</strong> - <a href="" style="color:#208f20;"><span>GitHub</span></a><br>
     Built Friday & Cortana Lite for Power Grid Corporation of India Ltd., developing AI-driven web and desktop tools to handle large volumes of documents, automate workflows, and enable easy data access for non-technical users.
 </p>
 
@@ -68,11 +57,11 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
     <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span style="color:#208f20;">GitHub</span></a><br>
     Tender Hunt and ATF automate tender searches, streamlining employee tasks. ATF scans 12 websites, like Gem and Coal India. Tender Hunt, the project's front end, uses HTML, CSS, and JavaScript for a user-friendly interface. It lets employees set criteria, boosting overall user experience.
 </p>
-
-
+<br>
 </td>
 
 <td width="50%" valign="top" style="border:none;">
+<br>
 <p>
     <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><img src="sorce/LUNA.png"></a>
     <strong>Smart Store System</strong> - <a href="https://github.com/YashvardhanAshok/MinorProject--Smart_Store_System"><span style="color:#208f20;">GitHub</span></a><br>
@@ -90,7 +79,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
     <strong>Railway-Management-System</strong> - <a href="https://github.com/YashvardhanAshok/Railway-Management-System"><span style="color:#208f20;">GitHub</span></a><br>
     About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
 </p>
-
+<br>
 </td>
 
 </tr>
