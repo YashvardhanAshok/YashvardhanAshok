@@ -30,36 +30,34 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <img src="https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
-
 <h3>My Experimentals</h3>
+
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
-<div style="width:100%; height:350px; overflow:hidden;">
-  <img src="sorce/AUTO-APPLY.png" width="100%">
-<strong>Friday & Cortana lite </strong>- Github<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
-</div>
-<div style="width:100%; height:350px; overflow:hidden;">
-  <img src="sorce/AUTO-APPLY.png" width="100%">
-<strong>Friday & Cortana lite </strong>- Github<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
-</div>
+
+<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
+<strong>Friday & Cortana Lite</strong> — GitHub<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
+<br><br>
+
+<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
+<strong>Friday & Cortana Lite</strong> — GitHub<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
 
 </td>
 
 <td width="50%" valign="top">
-<div style="width:100%; height:350px; overflow:hidden;">
-  <img src="sorce/AUTO-APPLY.png" width="100%">
-<strong>Friday & Cortana lite </strong>- Github<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
-</div>
-<div style="width:100%; height:350px; overflow:hidden;">
-  <img src="sorce/AUTO-APPLY.png" width="100%">
-<strong>Friday & Cortana lite </strong>- Github<br>
-Power Grid Corporation of India Limited is an Indian central public sector undertaking under the of the Ministry of Power
-</div>
+
+<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
+<strong>Friday & Cortana Lite</strong> — GitHub<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
+<br><br>
+
+<img src="sorce/AUTO-APPLY.png" width="100%" height="280" style="object-fit:cover;"><br>
+<strong>Friday & Cortana Lite</strong> — GitHub<br>
+Power Grid Corporation of India Limited is an Indian central public sector undertaking under the Ministry of Power
 
 </td>
 
