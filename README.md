@@ -1,16 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice meet You.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice meet You..</h1>
 
 <p>
-Hi, I'm <strong>Yashvardhan.</strong><br>
-Full Stack Developer focused on Python, scalable backends, and applied AI solutions.
+I'm <strong>Yashvardhan.</strong><br>
+Full Stack Developer focused on Python, scalable backends, and applied AI solutions. why not explore more of my work in my 
+<a href="https://yashvardhanashok.github.io/profile/">portfolio</a>.
 </p>
 
-<h3>Things I code with</h3>
+<h3>Here Are My Top Skils</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,flask,mysql,sqlite,docker,git,github,githubactions,selenium,pytorch,matlab,arduino,blender" />
+  <img src="https://skillicons.dev/icons?i=git,html,js,css,cpp,docker,sqlite,mysql,python,nodejs,flask,github,githubactions,pytorch,matlab,blender," />
 </p>
 
 <h3>My Experimentals</h3>
+I don’t just build projects - I build systems that work.
 
 <table width="100%" cellpadding="0" cellspacing="0" style="border:none;">
 <tr>
@@ -64,3 +66,11 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 </tr>
 </table>
+
+<p align="center">
+Last Updated: FEB, 20 2026 
+</p>
+
+
+
+
