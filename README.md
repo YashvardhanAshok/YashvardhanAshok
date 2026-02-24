@@ -9,7 +9,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <h3>Here Are My Top Skils</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,html,js,css,cpp,docker,sqlite,mysql,python,nodejs,flask,github,githubactions,pytorch,matlab,blender," />
+  <img height="40" src="https://skillicons.dev/icons?i=git,html,js,css,cpp,docker,sqlite,mysql,python,nodejs,flask,github,githubactions,pytorch,matlab,blender," />
 </p>
 
 <h3>Check Out My Experimentals </h3>
