@@ -21,7 +21,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 <br>
 <p>
     <a href="https://github.com/YashvardhanAshok/skill-tech"><img src="sorce/AUTO-APPLY.png"></a>
-    <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/skill-tech"><span>GitHub</span></a><br>
+    <strong>Auto Apply</strong> - <a href="https://github.com/YashvardhanAshok/skill-tech"><span>GitHub</span></a><br>
     Built an AI-driven job automation platform that discovers relevant openings, generates tailored resumes and cover letters, and streamlines applications across multiple platforms while maintaining structured tracking of opportunities.
 </p>
 
@@ -33,7 +33,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <p>
     <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/ATF.png"></a>
-    <strong>AUTO-TENDER-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span>GitHub</span></a><br>
+    <strong>Auto Tender Apply</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span>GitHub</span></a><br>
     Built Tender Hunt and ATF to automate tender discovery across 12 portals, streamlining employee workflows while providing a user-friendly interface for setting search criteria and improving efficiency.
 </p>
 <br>
@@ -55,7 +55,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <p>
     <a href="https://github.com/YashvardhanAshok/Railway-Management-System"><img src="sorce/Railx.png"></a>
-    <strong>Railway-Management-System</strong> - <a href="https://github.com/YashvardhanAshok/Railway-Management-System"><span>GitHub</span></a><br>
+    <strong>Railway Management System</strong> - <a href="https://github.com/YashvardhanAshok/Railway-Management-System"><span>GitHub</span></a><br>
     About The Railway Management System, also known as RailX, was developed during my 6th semester in college as part of the Software Project Management (SPM) course. Despite being a mini-project, IT IS LICENSE WITH NPOL.
 </p>
 <br>
