@@ -33,7 +33,7 @@ Full Stack Developer focused on Python, scalable backends, and applied AI soluti
 
 <p>
     <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><img src="sorce/ATF.png"></a>
-    <strong>AUTO-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span>GitHub</span></a><br>
+    <strong>AUTO-TENDER-APPLY</strong> - <a href="https://github.com/YashvardhanAshok/Tender-Hunt"><span>GitHub</span></a><br>
     Built Tender Hunt and ATF to automate tender discovery across 12 portals, streamlining employee workflows while providing a user-friendly interface for setting search criteria and improving efficiency.
 </p>
 <br>
